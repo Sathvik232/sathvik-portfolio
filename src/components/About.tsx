@@ -31,7 +31,7 @@ export default function About() {
             viewport={{ once: true }}
           >
             <p className="text-base md:text-lg text-slate-300 leading-8">
-              Software Engineer with 2+ years of professional
+              Software Engineer with 3+ years of professional
               experience building scalable web and mobile
               applications using React Native, React.js,
               Next.js, Python, Django and PostgreSQL.
@@ -63,7 +63,7 @@ export default function About() {
 
             <div className="bg-slate-900 border border-slate-800 p-6 rounded-2xl hover:border-blue-500 transition">
               <h3 className="text-3xl md:text-4xl font-bold text-blue-400">
-                2+
+                3+
               </h3>
               <p className="text-slate-300 mt-2">
                 Years Experience

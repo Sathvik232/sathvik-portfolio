@@ -50,7 +50,7 @@ export default function Experience() {
                         </div>
 
                         <span className="bg-blue-600 px-5 py-2 rounded-full text-sm w-fit">
-                            2024 - Present
+                            2023 - Present
                         </span>
 
                     </div>

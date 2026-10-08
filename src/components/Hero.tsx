@@ -60,7 +60,7 @@ leading-tight
                         </p>
 
                         <p className="mt-8 text-base md:text-lg text-slate-400 leading-8 max-w-3xl">
-                            Software Engineer with 2+ years of experience
+                            Software Engineer with 3+ years of experience
                             building scalable web and mobile applications
                             using React.js, Next.js,React Native, Python
                             Django, Java, PostgreSQL, CockroachDB and Swift.

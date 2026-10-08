@@ -68,7 +68,7 @@ export default function Contact() {
 
             <div className="flex justify-center items-center gap-3 text-slate-300">
               <FaPhoneAlt />
-              <span>+91 8277325232</span>
+              <span>+91 9380541647</span>
             </div>
 
           </div>
