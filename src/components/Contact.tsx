@@ -58,7 +58,7 @@ export default function Contact() {
               "
             >
               <FaEnvelope />
-              <span>sathvikskashyap111@gmail.com</span>
+              <span>sathvikkashyap111@gmail.com</span>
             </a>
 
             <div className="flex justify-center items-center gap-3 text-slate-300">
